@@ -89,3 +89,6 @@
     https://photoaid.com/tools
     享网站共包含14人在线图像处理工真，比较实用的有图像
     放大和抠图，速度和效果都挺好，并且是完全免赛的
+
+  - 这是免费在线去水印的一个网站,我试了一下，转换后并不会降低图片质量
+    https://www.watermarkremover.io/zh
