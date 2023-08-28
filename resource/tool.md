@@ -3,7 +3,7 @@
 - [Chat GPT](https://chat.openai.com/auth/login)
 - [**文心一言**](https://yiyan.baidu.com/welcome)
 - [Bard](https://bard.google.com/)
-- [通义听误](https://tingwu.aliyun.com/?TW_SCLUE=100185)
+- [通义听悟](https://tingwu.aliyun.com/?TW_SCLUE=100185)
 - [天工AI助手](https://tiangong.kunlun.com/)
 
 
