@@ -5,6 +5,7 @@
 - [Bard](https://bard.google.com/)
 - [通义听悟](https://tingwu.aliyun.com/?TW_SCLUE=100185)
 - [天工AI助手](https://tiangong.kunlun.com/)
+- [MathGPT](https://www.mathgpt.com/?lang=chinese)
 
 
 
