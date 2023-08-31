@@ -15,6 +15,9 @@
 - [whoer](https://whoer.net/zh)
 - [IPIP](https://www.ipip.net/?origin=EN)
 
+  IP在线监测
+  http://myip.ipip.net/
+
 ## 奈飞小铺
 
 - [环球巴士](https://universalbus.cn/)
