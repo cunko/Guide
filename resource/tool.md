@@ -116,4 +116,20 @@
   https://snaptik.app/
   复 制 粘 贴 Tiktok 视 频链 接 即 可 下 载 高 清 无 水 的 Tiktok 视频
   https://www.tiktok.com/foryou
+
+- #工具#在线生成
+  milai边框-一款为图片添加logo，描述边框的在线工具
+  https://xxbiji.gitee.io/milai-frame-web/home
+  该工具可以为你的图片添加多达几十个品牌的LOGO，可自定义边框
+  和文字信息，逼格拉满
+
+- #NSFW#AI绘画#网站
+  Promptchan-一人Al生成NsFW图片的网站
+  https://promptchan.ai/
+  点击「Create」进入创作界面，输入Prompt，点击「Create」按钮纽即可生成
+  想要效果更好可以在NegativePrompt输入你不想Al生成的提示，
+  在「Poses」选择姿势，默认是正面视角，可以选择后入、游开等姿势
+  如果想不出淫秽的提示词，可以在首页查看用户分享的作品，点击
+  「Clone」直接复制提示自己玩
+
   
