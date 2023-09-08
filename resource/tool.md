@@ -148,5 +148,12 @@
   是一款免费开源的图片无损放大工具，支持 Windows、Mac 和 Linux 系统。
   它内置了多款 AI 模型，可以对低分辨率、模糊图片进行修复，并放大 4~8 倍，变成高清大图。  
 
+- Zamzar
+  https://www.zamzar.com/
+  这是一个在线格式转换网站，可以免费转换图片格式
+
+- Convertio
+  https://convertio.co/zh/
+   这是一个在线格式转换网站，可以免费转换图片格式
 
   
