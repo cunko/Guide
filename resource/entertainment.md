@@ -26,6 +26,8 @@
 - [novipnoad影院](https://www.novipnoad.com/)    
 - [努努影院](https://www.nunuyy2.org/)
 - 通过telegram的阿里云盘机器人搜索，转载到阿里云盘上观看
+- 奈飞中文影视是国内最大的免费网飞影视平台。热门 Netflix 新剧、电影、动漫、综艺，高清免费片源
+  https://go.sotv.site/
 
 
 
